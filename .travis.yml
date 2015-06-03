@@ -1,0 +1,14 @@
+language: node_js
+
+node_js:
+  - '0.10'
+
+deploy:
+  provider: npm
+  email: help@getpostman.com
+  api_key:
+    secure: 
+  on:
+    tags: true
+    repo: postmanlabs/async-domino
+    branch: master
