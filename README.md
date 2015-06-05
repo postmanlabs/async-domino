@@ -22,9 +22,10 @@ async.waterfall(domino([
 ]), function (err, result) {
     // result now equals 'done'
 });
+```
 
 ## Options
 
 Second parameter of `domino` is options object
-- protect:true - sets whether to preven runtime error in the functions stops execution
+- protect:true - sets whether to prevent runtime error in the functions stops execution
 - timeout:2000 - sets the maximum time to allow each task
