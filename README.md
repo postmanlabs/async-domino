@@ -17,7 +17,7 @@ a specified time.
 though this was primarily designed to work with async.js library, it can be utilised under a number of series or 
 parallel control flow that is callback driven where **guarantee of terminal callback is required**.
 
-## Installing env-lift
+## Installing async-domino
 
 The easiest way to install `async-domino` is from the NPM registry. Switch to your project directory and run the 
 following command.
