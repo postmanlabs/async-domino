@@ -1,6 +1,6 @@
 {
   "name": "async-domino",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "A module to allow time controlled asynchronous functions",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,7 @@
   },
   "dependencies": {},
   "devDependencies": {
+    "async": "^1.2.0",
     "chai": "^3.0.0",
     "chai-spies": "^0.6.0",
     "mocha": "^2.2.5"

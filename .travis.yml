@@ -7,7 +7,7 @@ deploy:
   provider: npm
   email: help@getpostman.com
   api_key:
-    secure: 
+    secure: DLravddZPOY21EgEj9li1eWuJXpYGdRs3Xh3yNaujhn1dlAZtX1gK/3pbN6ib8BRIw21Ij8KEB51fgKEDMqsHVSPUD/0f8yEFR+GwiArPMXp9pZ0Momr1UP5EbLGL9SSZiZFQqT8kZspHn77jSOUkVFz2+rkvRkCDuwjwNgKfAc=
   on:
     tags: true
     repo: postmanlabs/async-domino
