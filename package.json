@@ -22,7 +22,7 @@
     "async": "^1.2.0",
     "chai": "^3.0.0",
     "chai-spies": "^0.6.0",
-    "mocha": "^2.2.5"
+    "mocha": "^6.0.0"
   },
   "repository": {
     "type": "git",
